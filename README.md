@@ -26,10 +26,6 @@ I'm a **Computer Science student** at **Gdańsk University of Technology** (Poli
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=B4rawasz&theme=tokyonight)
-
 ## 🎯 Fun Facts
 
 - 🐛 I don't always test my code, but when I do, I do it in production
