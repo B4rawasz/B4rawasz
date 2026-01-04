@@ -1,17 +1,10 @@
 # Hi there, I'm Jakub! 👋
 
-## 🎓 About Me
+## About Me
 
 I'm a **Computer Science student** at **Gdańsk University of Technology** (Politechnika Gdańska), passionate about building software and exploring new technologies. 
 
 🇵🇱 Based in Gdańsk, Poland
-
-## 🚀 What I Do
-
-- 💻 Writing clean code by day, debugging mysterious errors by night
-- 🎯 Currently focusing on full-stack development
-- 🧠 Always learning something new (or at least trying to)
-- ☕ Powered by coffee and stackoverflow
 
 ## 🛠️ Tech Stack
 
@@ -26,15 +19,7 @@ I'm a **Computer Science student** at **Gdańsk University of Technology** (Poli
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 🎯 Fun Facts
-
-- 🐛 I don't always test my code, but when I do, I do it in production
-- 🍕 Pizza is a valid debugging tool
-- 📚 My code works, I have no idea why
-- 🎮 Gaming enthusiast when not coding
-- 🤔 I mass "git commit -m 'fix'" and hope for the best
-
-## 📫 Let's Connect! 
+## Let's Connect! 
 
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi! 
 
